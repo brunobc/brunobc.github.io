@@ -1,7 +1,7 @@
 var loadPresentation = function() {
 	localStorage['strut-monopath'] = 'teste';
 	$.getJSON('path.json', function(path) {
-		localStorage['path.strut'] = path;
+		localStorage['path.strut'] = JSON.parse(path);
   });
 	var presentation = localStorage.getItem('preview-string');
 	var config = JSON.parse(localStorage.getItem('preview-config'));
