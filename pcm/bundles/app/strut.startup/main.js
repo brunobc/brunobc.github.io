@@ -14,6 +14,7 @@ function(EditorView, EditorModel) {
     			var storageInterface = registry.getBest('strut.StorageInterface');
     			storageInterface.load(sessionMeta.lastPresentation, function(pres, err) {
     				if (!err) {
+    					console.log(pres);
     					model.importPresentation(pres);
     				} else {
     					console.log(err);

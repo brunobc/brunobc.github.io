@@ -1,0 +1,2969 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "img/uece.png",
+          "type": "Image",
+          "x": 948,
+          "y": 5,
+          "scale": {
+            "x": 0.30582524271844663,
+            "y": 0.30582524271844663,
+            "width": 63.00000000000001,
+            "height": 94.50000000000001
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 417,
+          "y": 6,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu, sans-serif\" color=\"#122a6a\">Universidade Estadual do Ceará</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 112,
+          "y": 503,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Ubuntu, sans-serif;\">Aluno: Bruno Bezerra Chaves</span></div><div style=\"text-align: center;\">Orientador: Prof. Dr. Marcos José Negreiros Gomes</div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 393,
+          "y": 666,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 32,
+          "text": "<font face=\"Ubuntu\">Fortaleza - Ceará</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 478,
+          "y": 705,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 34,
+          "text": "<font face=\"Ubuntu\">2015</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 554,
+          "y": 51,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu, sans-serif\" color=\"#122a6a\">Ciência da Computação</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 55,
+          "y": 276,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 41,
+          "text": "<div style=\"text-align: center;\"><font color=\"#122a6a\" face=\"Ubuntu, sans-serif\">Métodos Combinatoriais para Problemas&nbsp;em</font></div><div style=\"text-align: center;\"><font color=\"#122a6a\" face=\"Ubuntu, sans-serif\">Redes Dinâmicas: Algoritmos de Caminho Mínimo</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 80,
+      "y": 60,
+      "surface": "bg-surf-grad-smoke"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 190,
+          "y": 180,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"color: rgb(18, 42, 106); font-family: Ubuntu; line-height: normal;\">Introdução</span></li></ul><ul><li><span style=\"color: rgb(18, 42, 106); font-family: Ubuntu; line-height: normal;\">Grafos Estáticos e Dinâmicos</span><br></li><li><span style=\"color: rgb(18, 42, 106); font-family: Ubuntu; line-height: normal;\">Caminhos em Grafos</span></li><li><span style=\"color: rgb(18, 42, 106); font-family: Ubuntu; line-height: normal;\">Conclusão</span><br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 80,
+      "y": 140
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 340,
+          "y": 49,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">Introdução</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 102,
+          "y": 237,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">Motivação<br>Objetivos</font><br>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": 1200,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-sky",
+      "x": 100,
+      "y": 260,
+      "background": "bg-solid-sky"
+    },
+    {
+      "components": [
+        {
+          "src": "img/engarrafamento.jpg",
+          "type": "Image",
+          "x": -308,
+          "y": -28,
+          "scale": {
+            "x": 0.9857792946530151,
+            "y": 0.9857792946530151,
+            "width": 1733.0000000000005,
+            "height": 808.3390216154723
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 100,
+      "y": 220
+    },
+    {
+      "components": [
+        {
+          "src": "img/ferramenta.png",
+          "type": "Image",
+          "x": -174,
+          "y": 1,
+          "scale": {
+            "x": 0.9999999999999992,
+            "y": 0.9999999999999992,
+            "width": 1365.9999999999989,
+            "height": 767.9999999999994
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 100,
+      "y": 300
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 399,
+          "y": 73,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu, sans-serif\">Grafos</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 134,
+          "y": 239,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\"><span style=\"color: rgb(238, 238, 238);\">Grafos Estáticos</span><br><span style=\"color: rgb(238, 238, 238);\">Grafos Dinâmicos</span><br><span style=\"color: rgb(238, 238, 238);\">Dynagraph</span></font><br>",
+          "size": 48,
+          "selected": false,
+          "skewY": 0,
+          "rotate": 0
+        }
+      ],
+      "z": 1200,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-sky",
+      "x": 280,
+      "y": 60,
+      "background": "bg-solid-sky"
+    },
+    {
+      "components": [
+        {
+          "src": "img/heranca.png",
+          "type": "Image",
+          "x": 207,
+          "y": 251,
+          "scale": {
+            "x": 1.3126293995859213,
+            "y": 1.3126293995859213,
+            "width": 634,
+            "height": 316.343685300207
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 412,
+          "y": 38,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Ubuntu\">Grafos</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 480,
+      "y": 60
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 412,
+          "y": 38,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Ubuntu\">Grafos</font>",
+          "selected": false
+        },
+        {
+          "src": "img/map.png",
+          "type": "Image",
+          "x": 97,
+          "y": 148,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 280,
+      "y": 120,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 89,
+          "y": 349,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\">Grafo Orientado ou Assimétrico</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 576,
+          "y": 349,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\">Grafo Não Orientado ou Simétrico</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 445,
+          "y": 676,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\">Grafo Misto</font>",
+          "selected": false
+        },
+        {
+          "src": "img/misto.png",
+          "type": "Image",
+          "x": 368,
+          "y": 423,
+          "scale": {
+            "x": 0.21086956521739142,
+            "y": 0.21086956521739142,
+            "width": 291.00000000000017,
+            "height": 272.65434782608713
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 0.38
+        },
+        {
+          "src": "img/assimetrico.png",
+          "type": "Image",
+          "x": 98,
+          "y": 51,
+          "scale": {
+            "x": 0.22028985507246368,
+            "y": 0.22028985507246368,
+            "width": 303.9999999999999,
+            "height": 284.83478260869555
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/simetrico.png",
+          "type": "Image",
+          "x": 611,
+          "y": 56,
+          "scale": {
+            "x": 0.27816901408450706,
+            "y": 0.27816901408450706,
+            "width": 316,
+            "height": 229.21126760563382
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 380,
+      "y": 120,
+      "surface": "bg-surf-grad-smoke"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 291,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">Grafos Dinâmicos</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 438,
+          "y": 141,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 43,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">t &nbsp; &nbsp; &nbsp;t &nbsp; &nbsp; t</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 329,
+          "y": 363,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 51,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">V &nbsp;= Vértices</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 363,
+          "y": 353,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">t</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 334,
+          "y": 431,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 51,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">L &nbsp;= Ligações</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 357,
+          "y": 413,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">t</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 327,
+          "y": 271,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 66,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">t = [t , t ]</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 468,
+          "y": 302,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 45,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">s &nbsp; &nbsp; f</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 391,
+          "y": 149,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 66,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">G (V , L )</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 529,
+          "y": 159,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 29,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">v &nbsp; &nbsp; &nbsp; &nbsp;l</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 635,
+          "y": 271,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">s: tempo inicial<br>f: tempo final</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 377,
+          "y": 367,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 29,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">v</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 373,
+          "y": 431,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 29,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">l</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 325,
+          "y": 498,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 66,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">t = t &nbsp;U t</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 444,
+          "y": 533,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 45,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">v &nbsp; &nbsp; &nbsp; &nbsp; l</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 320,
+      "y": 240,
+      "surface": "bg-surf-grad-smoke"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 136,
+          "y": 20,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">Tipos de Grafos Dinâmicos</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 208,
+          "y": 195,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"font-family: Ubuntu; color: rgb(18, 42, 106); line-height: normal;\">Nós dinâmicos</span><br></li><li><span style=\"color: rgb(18, 42, 106); line-height: normal;\">Elos dinâmicos</span><br></li><li><span style=\"color: rgb(18, 42, 106); line-height: normal;\">Nós ponderados dinâmicos</span><br></li><li><span style=\"color: rgb(18, 42, 106); line-height: normal;\">Elos ponderados dinâmicos</span><br></li><li><span style=\"color: rgb(18, 42, 106); line-height: normal;\">Grafo dinâmico ponderado</span><br></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 440,
+      "y": 240
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 177,
+          "y": 299,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#ffffff\">O modelo Dynagraph</font>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-grass",
+      "x": 79,
+      "y": 520
+    },
+    {
+      "components": [
+        {
+          "src": "img/dynagraph.png",
+          "type": "Image",
+          "x": -175,
+          "y": 1,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": -0.8,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 80,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 166,
+          "y": 121,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Vertex<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 383,
+          "y": 8,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 59,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Metadata</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 166,
+          "y": 201,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\"><font face=\"Ubuntu\">&nbsp;\"fields\": {<br>&nbsp; &nbsp; &nbsp; \"id\": \"id\",<br>&nbsp; &nbsp; &nbsp; \"start\": \"ini\",<br>&nbsp; &nbsp; &nbsp; \"end\": \"fim\"<br>&nbsp;}<br>\"temporalfields\": {<br></font>&nbsp; &nbsp; &nbsp; &nbsp; \"position\": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"dataset\": \"posicao\"<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ...<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp;\"label\": \"rotulo\",<br>&nbsp; &nbsp; &nbsp; &nbsp;\"type\": \"tipo\",<br>&nbsp;}</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 620,
+          "y": 120,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Edge<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 620,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\"><font face=\"Ubuntu\">&nbsp;\"fields\": {<br>&nbsp; &nbsp; &nbsp; \"id\": \"id\",<br>&nbsp; &nbsp; &nbsp; \"start\": \"ini\",<br>&nbsp; &nbsp; &nbsp; \"end\": \"fim\"<br>&nbsp;}<br>\"temporalfields\": {<br></font>&nbsp; &nbsp; &nbsp; &nbsp; \"sourcetarget\": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"dataset\": \"origemdestino\",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp;\"label\": \"rotulo\",<br>&nbsp; &nbsp; &nbsp; &nbsp;\"type\": \"tipo\",<br>&nbsp;}</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": -0.82,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 200,
+      "y": 459,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 386,
+          "y": 7,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 59,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Binding</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 163,
+          "y": 121,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Vertex<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 605,
+          "y": 120,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Edge<br></font>",
+          "selected": false
+        },
+        {
+          "src": "img/editor.png",
+          "type": "Image",
+          "x": 24,
+          "y": 195,
+          "scale": {
+            "x": 1.1305418719211822,
+            "y": 1.1305418719211822,
+            "width": 458.99999999999994,
+            "height": 454.4778325123152
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 585,
+          "y": 194,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">\"arrows\": {<br></font>&nbsp; &nbsp; \"label\": \"Arrows\",<br>&nbsp; &nbsp; \"strokeOpacity\": 0,<br>&nbsp; &nbsp; \"color\": \"black\",<br>&nbsp; &nbsp; \"icons\": [{<br>&nbsp; &nbsp; &nbsp; &nbsp; \"icon\": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"path\": 1,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"fillOpacity\": 1,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"strokeOpacity\": 0<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; \"repeat\": \"10px\"<br>&nbsp; &nbsp; &nbsp;}]<br>&nbsp;}<br>",
+          "selected": false
+        },
+        {
+          "src": "img/arrows.png",
+          "type": "Image",
+          "x": 812,
+          "y": 194,
+          "scale": {
+            "x": 0.6019108280254777,
+            "y": 0.6019108280254777,
+            "width": 189,
+            "height": 168.53503184713375
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 200,
+      "y": 520
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 98,
+          "y": 126,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Vertex<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 422,
+          "y": 7,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 59,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Data</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 601.1917355371901,
+          "y": 125.07768595041323,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Edge<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 180,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">elements:<br></font>&nbsp; &nbsp; &nbsp; &nbsp; \"1\": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"ini\": \"2014-12-16 00:00:00\",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"fim\": null<br>&nbsp; &nbsp; &nbsp; &nbsp; }<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">temporalfields.posicao:<br></font>&nbsp; &nbsp; &nbsp; &nbsp; \"1\":[ {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"time\": \"2014-12-16 00:00:00\",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"data\": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"x\": 552713,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"y\": 9583920, ...<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; }]<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 600,
+          "y": 180,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">elements:<br></font>&nbsp; &nbsp; &nbsp; &nbsp; \"1\": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"ini\": \"2014-12-16 00:00:00\",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"fim\": null<br>&nbsp; &nbsp; &nbsp; &nbsp; }<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 600,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">temporalfields.origemdestino:<br></font>&nbsp; &nbsp; &nbsp; &nbsp; \"1\":[ {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"time\": \"2014-12-16 00:00:00\",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"data\": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"origem\": 1,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"destino\": 2<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; }]<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 600,
+          "y": 600,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">tipo:<br></font>&nbsp;\"1\": [&nbsp;{<br>&nbsp; &nbsp; &nbsp; &nbsp;\"time\": \"2014-12-16...\",<br>&nbsp; &nbsp; &nbsp; &nbsp;\"data\": \"arrows\"<br>&nbsp; &nbsp; &nbsp; }&nbsp;]<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 600,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">tipo:<br></font>&nbsp;\"1\": [&nbsp;{<br>&nbsp; &nbsp; &nbsp; &nbsp;\"time\": \"2014-12-16...\",<br>&nbsp; &nbsp; &nbsp; &nbsp;\"data\": \"ball\"<br>&nbsp; &nbsp; &nbsp; }&nbsp;]<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": -0.8,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 320,
+      "y": 460,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/b1mod.png",
+          "type": "Image",
+          "x": -157,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/b2mod.png",
+          "type": "Image",
+          "x": 303,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/b3mod.png",
+          "type": "Image",
+          "x": 763,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 320,
+      "y": 520
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 175,
+          "y": 59,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">Caminhos em Grafos</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 98,
+          "y": 269,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">Caminhos em Redes Estáticas<br>Caminhos em Redes Dinâmicas<br></font>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": 600,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-sky",
+      "x": 620,
+      "y": 320
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 29,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">Caminhos em Redes Estáticas</font><br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 141,
+          "y": 236,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">Problema de Caminho Mínimo<br>Algoritmo de Dijkstra<br>Algoritmo Radix Heap<br></font>",
+          "size": 55,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-grass",
+      "x": 600,
+      "y": 100
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 150,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu\"><font color=\"#ffffff\">Problema de Caminho Mínimo</font><br></font>",
+          "size": 55,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 113,
+          "y": 169,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<ul><li><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu; line-height: normal;\">Rede G</span><br></li><li><i style=\"color: rgb(255, 255, 255); font-family: Ubuntu; line-height: normal;\">m </i><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu; line-height: normal;\">nós</span><br></li><li><i style=\"color: rgb(255, 255, 255); font-family: Ubuntu; line-height: normal;\">n </i><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu; line-height: normal;\">arcos, cada arco (i, j) possui custo c</span><br></li><li><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu; line-height: normal;\">Menor caminho entre o nó 1 e o nó m</span></li><li><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu; line-height: normal;\">Custo do caminho: soma dos custos&nbsp;</span></li></ul><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\">dos arcos de caminho encontrado</span><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 905,
+          "y": 299,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#ffffff\">ij</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-orange",
+      "x": 700,
+      "y": 100
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 259,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu\"><font color=\"#ffffff\">Algoritmo de Dijkstra</font><br></font>",
+          "size": 55,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 187,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\" color=\"#ffffff\"><ul><li><span style=\"line-height: normal;\">Resolve o PCM de uma única origem em&nbsp;</span><br></li></ul></font><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\">um grafo orientado</span><font face=\"Ubuntu\" color=\"#ffffff\"><br><ul><li><span style=\"line-height: normal;\">Mantém um conjunto de nós cujos pesos</span><br></li></ul>desde a origem já foram calculados<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-orange",
+      "x": 800,
+      "y": 100
+    },
+    {
+      "components": [
+        {
+          "src": "img/algoritmodijkstra.png",
+          "type": "Image",
+          "x": 7,
+          "y": 118,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": -0.8,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 800,
+      "y": 40
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 237,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu\"><font color=\"#ffffff\">Algoritmo Radix Heap</font><br></font>",
+          "size": 55,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 162,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\"><li><span style=\"line-height: normal;\">Utilizado numa variação do algoritmo de Dijkstra</span><br></li><li><i>Buckets</i></li></ul><font color=\"#ffffff\" face=\"Ubuntu\"><span style=\"line-height: 36px;\"><i><br></i></span></font><ul style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\"><li><i>bucket[k]:</i></li></ul><i style=\"line-height: 1em; color: rgb(255, 255, 255); font-family: Ubuntu;\">&nbsp; &nbsp;intervalo(k): intervalo de valores</i><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\"><br></span><i style=\"color: rgb(255, 255, 255); font-family: Ubuntu; line-height: 1em;\">&nbsp; &nbsp;largura(k): largura do intervalo</i><br><ul style=\"color: rgb(255, 255, 255); font-family: Ubuntu; line-height: 1em;\"><li>largura dos buckets: 1, 1, 2, 4, 8, 16</li></ul><font color=\"#ffffff\" face=\"Ubuntu\"><span style=\"line-height: 36px;\"><br></span></font><ul style=\"color: rgb(255, 255, 255); font-family: Ubuntu; line-height: 1em;\"><li>buckets necessários: O(log(NC))</li></ul><span style=\"line-height: 1em; color: rgb(255, 255, 255); font-family: Ubuntu;\">&nbsp; &nbsp; &nbsp;N: número&nbsp;</span><font color=\"#ffffff\" face=\"Ubuntu\"><span style=\"line-height: 36px;\">de vértices<br>&nbsp; &nbsp; &nbsp;C: custo da maior aresta<br></span></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-orange",
+      "x": 900,
+      "y": 100
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 212,
+          "y": 180,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 42,
+          "text": "<span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\">intervalo(0) = [0];</span><br><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\">intervalo(1) = [1];</span><br><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\">intervalo(2) = [2, 3];</span><br><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\">intervalo(3) = [4, 7];</span><br><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\">intervalo(4) = [8, 15];</span><br><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\">&nbsp; &nbsp;...</span><br><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\">intervalo(k) = [2 &nbsp; &nbsp; , 2 &nbsp;- 1];</span><br><font color=\"#ffffff\" face=\"Ubuntu\"><span style=\"line-height: 36px;\"><br></span></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 511,
+          "y": 457,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#ffffff\">k-1</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 600,
+          "y": 455,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#ffffff\">k</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 278,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\" color=\"#ffffff\">Intervalo dos Buckets</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": -0.8,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-orange",
+      "x": 900,
+      "y": 40
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix1.png",
+          "type": "Image",
+          "x": 56,
+          "y": 87,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1000,
+      "y": 40,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix2.png",
+          "type": "Image",
+          "x": 52,
+          "y": 69,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1000,
+      "y": 100,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix3.png",
+          "type": "Image",
+          "x": 47,
+          "y": 62,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1000,
+      "y": 160,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix4.png",
+          "type": "Image",
+          "x": 51,
+          "y": 55,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1000,
+      "y": 220,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix5.png",
+          "type": "Image",
+          "x": 61,
+          "y": 53,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1000,
+      "y": 280,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix6.png",
+          "type": "Image",
+          "x": 62,
+          "y": 47,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1000,
+      "y": 340,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix7.png",
+          "type": "Image",
+          "x": 49,
+          "y": 51,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1000,
+      "y": 400,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix8.png",
+          "type": "Image",
+          "x": 61,
+          "y": 60,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1000,
+      "y": 460,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix9.png",
+          "type": "Image",
+          "x": 57,
+          "y": 45,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 32,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1100,
+      "y": 40,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix10.png",
+          "type": "Image",
+          "x": 48,
+          "y": 51,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 33,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1100,
+      "y": 100,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix11.png",
+          "type": "Image",
+          "x": 63,
+          "y": 44,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 34,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1100,
+      "y": 160,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix12.png",
+          "type": "Image",
+          "x": 56,
+          "y": 48,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 35,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1100,
+      "y": 220,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix13.png",
+          "type": "Image",
+          "x": 52,
+          "y": 47,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 36,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1100,
+      "y": 280,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix14.png",
+          "type": "Image",
+          "x": 59,
+          "y": 45,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 37,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1100,
+      "y": 340,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/radix/radix15.png",
+          "type": "Image",
+          "x": 61,
+          "y": 69,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 38,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1100,
+      "y": 400,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "src": "img/algoritmoRadixHeap.png",
+          "type": "Image",
+          "x": 99,
+          "y": 12,
+          "scale": {
+            "x": 1.3081761006289307,
+            "y": 1.3081761006289307,
+            "width": 832,
+            "height": 745.6603773584906
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 39,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 1100,
+      "y": 460,
+      "background": "bg-solid-light"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 10,
+          "y": 17,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">Caminhos em Redes Dinâmicas</font><br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 52,
+          "y": 252,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#eeeeee\" face=\"Ubuntu\">Topologia Dinâmica e Atributos Estáticos<br>Topologia Estática e Atributos Dinâmicos<br>Topologia Dinâmica e Atributos Dinâmicos<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 40,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-grass",
+      "x": 600,
+      "y": 160
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\"><font color=\"#000000\">Topologia Dinâmica e Atributos Estáticos</font><br></font>",
+          "selected": false
+        },
+        {
+          "src": "img/pathtopdyn.png",
+          "type": "Image",
+          "x": 1,
+          "y": 224,
+          "scale": {
+            "x": 0.6727989487516427,
+            "y": 0.6727989487516427,
+            "width": 1024.0000000000002,
+            "height": 399.64257555847576
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 41,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 700,
+      "y": 160
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 62,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\"><font color=\"#ffffff\">Topologia Estática e Atributos Dinâmicos</font><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 141,
+          "y": 177,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\"><ul><li><span style=\"line-height: normal;\">Dijkstra com Radix Heap</span><br></li><li><span style=\"line-height: normal;\">Vetor de custos:&nbsp;</span></li></ul></span><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\">&nbsp; &nbsp; &nbsp;tempo médio das passagens&nbsp;</span><span style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\">dos veículos<br>&nbsp; &nbsp; &nbsp;numa determinada ligação, em&nbsp;</span><font face=\"Ubuntu\" color=\"#ffffff\">intervalos<br>&nbsp; &nbsp; &nbsp;de 10 minutos ao longo do dia.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 42,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-orange",
+      "x": 800,
+      "y": 160
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 192,
+          "y": 65,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 39,
+          "text": "<font face=\"Ubuntu\"><font color=\"#122a6a\">\"aresta 1\": [<br>&nbsp; &nbsp;[3, 2, 1, 4, 3, 2&nbsp;], &nbsp;0h<br>&nbsp; &nbsp;[0, 3, 4, 7, 5, 3&nbsp;], &nbsp;1h<br>&nbsp; &nbsp;...<br>&nbsp; &nbsp;[5, 6, 6, 3, 4, 2] &nbsp; &nbsp;23h<br>&nbsp;]</font><br></font>",
+          "selected": false
+        },
+        {
+          "src": "img/intervalotemporal.png",
+          "type": "Image",
+          "x": 83,
+          "y": 398,
+          "scale": {
+            "x": 1.3453689167974883,
+            "y": 1.3453689167974883,
+            "width": 857,
+            "height": 130.50078492935637
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 600,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 43,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 600,
+      "y": 220,
+      "background": "bg-solid-smoke"
+    },
+    {
+      "components": [
+        {
+          "src": "img/critica.png",
+          "type": "Image",
+          "x": 103,
+          "y": 16,
+          "scale": {
+            "x": 1.3663865546218488,
+            "y": 1.3663865546218488,
+            "width": 813,
+            "height": 739.2151260504202
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 44,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 700,
+      "y": 220,
+      "background": "bg-solid-smoke"
+    },
+    {
+      "components": [
+        {
+          "src": "img/compermadiante.png",
+          "type": "Image",
+          "x": 0,
+          "y": 62,
+          "scale": {
+            "x": 1.3390275952693824,
+            "y": 1.3390275952693824,
+            "width": 1019,
+            "height": 299.9421813403417
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/sempermadiante.png",
+          "type": "Image",
+          "x": 0,
+          "y": 384,
+          "scale": {
+            "x": 1.3429697766097242,
+            "y": 1.3429697766097242,
+            "width": 1022.0000000000001,
+            "height": 299.4822601839685
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 45,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 800,
+      "y": 220,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 52,
+          "y": 32,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<span style=\"font-family: Ubuntu;\"><font color=\"#ffffff\">Topologia Dinâmica e Atributos Dinâmicos</font></span><font color=\"#eeeeee\" face=\"Ubuntu\"><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 141,
+          "y": 177,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 35,
+          "text": "<ul><li style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\"><span style=\"line-height: normal;\">Dijkstra com Radix Heap</span><br></li><li style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\"><span style=\"line-height: normal;\">Vetor de custo</span></li><li style=\"color: rgb(255, 255, 255); font-family: Ubuntu;\"><span style=\"line-height: normal;\">Vértices e Ligações Dinâmicas</span></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 46,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-orange",
+      "x": 900,
+      "y": 160
+    },
+    {
+      "components": [
+        {
+          "src": "img/valid.png",
+          "type": "Image",
+          "x": 30,
+          "y": 40,
+          "scale": {
+            "x": 1.263504611330698,
+            "y": 1.263504611330698,
+            "width": 958.9999999999998,
+            "height": 648.1778656126481
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 47,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 900,
+      "y": 220
+    },
+    {
+      "components": [
+        {
+          "src": "img/permissao/semperm1.png",
+          "type": "Image",
+          "x": 60,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/semperm1.png",
+          "type": "Image",
+          "x": 500,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 520,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Com Permissão Adiante</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Sem Permissão Adiante</font>",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/semperm2.png",
+          "type": "Image",
+          "x": 60,
+          "y": 400,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/semperm2.png",
+          "type": "Image",
+          "x": 500,
+          "y": 400,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 48,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 900,
+      "y": 280
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 520,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Com Permissão Adiante</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Sem Permissão Adiante</font>",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/semperm3.png",
+          "type": "Image",
+          "x": 60,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/semperm3.png",
+          "type": "Image",
+          "x": 500,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/semperm4.png",
+          "type": "Image",
+          "x": 60,
+          "y": 400,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/semperm4.png",
+          "type": "Image",
+          "x": 500,
+          "y": 400,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 49,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 900,
+      "y": 340
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 520,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Com Permissão Adiante</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Sem Permissão Adiante</font>",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/semperm5.png",
+          "type": "Image",
+          "x": 60,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/comperm5.png",
+          "type": "Image",
+          "x": 500,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/semperm6.png",
+          "type": "Image",
+          "x": 60,
+          "y": 400,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/comperm6.png",
+          "type": "Image",
+          "x": 500,
+          "y": 400,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 50,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 900,
+      "y": 400
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 520,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Com Permissão Adiante</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">Sem Permissão Adiante</font>",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/semperm6.png",
+          "type": "Image",
+          "x": 60,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "img/permissao/comperm7.png",
+          "type": "Image",
+          "x": 500,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 51,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 900,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "img/permissao/ferramenta1.png",
+          "type": "Image",
+          "x": -171,
+          "y": 1,
+          "scale": {
+            "x": 0.9985358711566618,
+            "y": 0.9985358711566618,
+            "width": 1364,
+            "height": 766.8755490483162
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 385,
+          "y": 169,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\"><font face=\"Ubuntu\">Com Permissão Adiante:<br></font>1 -&gt; 3: 9 minutos<br>3 -&gt; 2: 3 minutos<br>2 -&gt; 4: 7 minutos<br>4 -&gt; 6: 6 minutos<br>Total: 25 minutos<br><br>Sem Permissão Adiante:<br>1 -&gt; 3: 9 minutos<br>3 -&gt; 2: 2 minutos<br>2 -&gt; 4: 7 minutos<br>4 -&gt; 6: 5 minutos<br>Total: 23 minutos</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": -69,
+          "y": 201,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">[8,5,7,4,3,2]</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": -72,
+          "y": 551,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">[9,8,6,4,3,5]</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 458,
+          "y": 53,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">[6,7,7,7,5,8]</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 142,
+          "y": 503,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">[3,2,3,3,2,7]</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 396,
+          "y": 568,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">[8,9,9,3,4,2]</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 750,
+          "y": 299,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">[3,2,4,2,3,5]</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 885,
+          "y": 474,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">[6,3,3,4,3,2]</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 129,
+          "y": 249,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#122a6a\" face=\"Ubuntu\">[4,2,3,4,3,2]</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 954,
+          "y": 158,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\" color=\"#122a6a\">[4,6,5,4,3,2]</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 52,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-light",
+      "x": 900,
+      "y": 520
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 356,
+          "y": 61,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Ubuntu\" color=\"#ffffff\">Conclusão</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 297,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#ffffff\">Software:<br><ul><li><span style=\"line-height: normal;\">exibe grafos com topologia estática&nbsp;</span></li><li><span style=\"line-height: normal;\">calcula e exibe o caminho mínimo para Grafos Dinâmicos</span><br></li><li><span style=\"line-height: normal;\">Integração com o Dynagraph</span></li><li>Integração com Editor de Características</li></ul><br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 187,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#ffffff\" face=\"Ubuntu\">Algoritmo Dijkstra com Radix Heap para Grafos Dinâmicos</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 53,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-sky",
+      "x": 1200,
+      "y": 520
+    },
+    {
+      "components": [
+        {
+          "src": "img/fluxo1.png",
+          "type": "Image",
+          "x": -171,
+          "y": -1,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 54,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 1200,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "img/fluxo2.png",
+          "type": "Image",
+          "x": -172,
+          "y": -1,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 55,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 1200,
+      "y": 400
+    },
+    {
+      "components": [
+        {
+          "src": "img/fluxo3.png",
+          "type": "Image",
+          "x": -171,
+          "y": 0,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 56,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 1200,
+      "y": 340
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 446,
+          "y": 220,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Ubuntu\" color=\"#000000\">Fim!</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 57,
+      "selected": false,
+      "active": false,
+      "surface": "bg-surf-grad-smoke",
+      "x": 1200,
+      "y": 280
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "img/uece.png",
+        "type": "Image",
+        "x": 948,
+        "y": 5,
+        "scale": {
+          "x": 0.30582524271844663,
+          "y": 0.30582524271844663,
+          "width": 63.00000000000001,
+          "height": 94.50000000000001
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 417,
+        "y": 6,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font face=\"Ubuntu, sans-serif\" color=\"#122a6a\">Universidade Estadual do Ceará</font><br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 112,
+        "y": 503,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Ubuntu, sans-serif;\">Aluno: Bruno Bezerra Chaves</span></div><div style=\"text-align: center;\">Orientador: Prof. Dr. Marcos José Negreiros Gomes</div>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 393,
+        "y": 666,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 32,
+        "text": "<font face=\"Ubuntu\">Fortaleza - Ceará</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 478,
+        "y": 705,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 34,
+        "text": "<font face=\"Ubuntu\">2015</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 554,
+        "y": 51,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font face=\"Ubuntu, sans-serif\" color=\"#122a6a\">Ciência da Computação</font><br>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 55,
+        "y": 276,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 41,
+        "text": "<div style=\"text-align: center;\"><font color=\"#122a6a\" face=\"Ubuntu, sans-serif\">Métodos Combinatoriais para Problemas&nbsp;em</font></div><div style=\"text-align: center;\"><font color=\"#122a6a\" face=\"Ubuntu, sans-serif\">Redes Dinâmicas: Algoritmos de Caminho Mínimo</font></div>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 1,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 80,
+    "y": 60,
+    "surface": "bg-surf-grad-smoke"
+  },
+  "fileName": "path",
+  "surface": "bg-surf-grad-light",
+  "deckVersion": "1.0",
+  "cannedTransition": "carousel",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 639.5,
+  "overviewY": 280
+}

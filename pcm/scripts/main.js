@@ -159,6 +159,7 @@ window.zTracker = {
 // TODO: we'll have to make a more generic one that hooks into
 // the storage providers...
 window.clearPresentations = function() {
+	console.log('Aqui');
 	var len = localStorage.length;
 	for (var i = 0; i < len; ++i) {
 		var key = localStorage.key(i);
