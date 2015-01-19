@@ -1,5 +1,4 @@
 var loadPresentation = function() {
-	localStorage['strut-monopath'] = 'teste';
 	$.getJSON('path.json', function(path) {
 		localStorage['strut-presentation-unnamed.strut'] = JSON.stringify(path, null, 2);
   });
